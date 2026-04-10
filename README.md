@@ -4,6 +4,7 @@
 * Tyler Stanley tys53@pitt.edu
 * Landon Kauffman ljk81@pitt.edu
 * Peter Cytrynowicz
+* (We don't have a group number. Our group in canvas is called "4 Person Group (Final Project)")
 ### **Datasets**
 * Dataset1: City of Pittsburgh Parks -- https://data.wprdc.org/dataset/parks
   * This dataset contains the different parks and in which neighborhood they reside.

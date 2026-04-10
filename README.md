@@ -5,7 +5,7 @@
 * Landon Kauffman ljk81@pitt.edu
 * Peter Cytrynowicz
 ### **Datasets**
-* Dataset1: City of Pittsburgh Parks -- https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
+* Dataset1: City of Pittsburgh Parks -- https://data.wprdc.org/dataset/parks
   * This dataset contains the different parks and in which neighborhood they reside.
 * Dataset 2 : City of Pittsburgh Registered Trees -- https://data.wprdc.org/dataset/city-trees
   * This dataset contains each registered tree and information about each.

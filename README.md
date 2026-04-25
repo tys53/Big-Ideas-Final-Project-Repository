@@ -3,7 +3,7 @@
 * Finn Labuda fil18@pitt.edu
 * Tyler Stanley tys53@pitt.edu
 * Landon Kauffman ljk81@pitt.edu
-* Peter Cytrynowicz
+* Peter Cytrynowicz pec140@pitt.edu
 * (We don't have a group number. Our group in canvas is called "4 Person Group (Final Project)")
 ### **Datasets**
 * Dataset 1: City of Pittsburgh Parks -- https://data.wprdc.org/dataset/parks
